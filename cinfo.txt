@@ -1,0 +1,4 @@
+Hans,Larsen,pisces,12435
+Michael,Hansen,libraa,84637
+Sandra,Merv,leo,36253
+Nell,Valeria,cancer,37266
